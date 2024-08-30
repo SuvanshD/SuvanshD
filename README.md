@@ -19,7 +19,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="www.youtube.com/@suvansh9662"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://youtube.com/@suvansh9662?si=-0on0YuViH_LcpLm"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="www.linkedin.com/in/suvansh-dureja"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
