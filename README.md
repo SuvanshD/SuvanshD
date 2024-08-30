@@ -8,6 +8,12 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&width=500&lines=Front-end+Web+Developer;Data+Science+and+ML+enthusiast;1.5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
+
+<br/>
+
 
 
 
