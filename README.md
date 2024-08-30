@@ -122,7 +122,8 @@
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-<!--       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> -->
+<!--       <a href="#"><img alt="Apache" src="https://custom-icon-badges.demolab.com/badge/Apache.svg?logo=bliss&logoColor=white"></a> -->
+<!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> -->
 <!--       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a> -->
 <!--       <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a> -->
 <!--       <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a> -->
